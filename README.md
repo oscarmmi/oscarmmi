@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Marval](https://marval.com.co/) and [Grupo Unifema](https://grupounifema.com/)****
+- 🔭 I’m currently working on **[Marval](https://marval.com.co/)** and **[Grupo Unifema](https://grupounifema.com/)**
 - 🌱 I’m currently learning Laravel, Vue and SQL Server
 - 💬 Ask me about Laravel | Vue | MySQL | SQL Server | Vanilla JS | CSS | Bootstrap
 - 📫 How to reach me: [oscarxxi@gmail.com](mailto:oscarxxi@gmail.com)
