@@ -1,8 +1,8 @@
-# Oscar Muñoz 👋
+# Hi there, I'm Oscar Muñoz 👋
 
 ![](https://komarev.com/ghpvc/?username=oscarmmi&color=brightgreen)
 
-My name is Oscar Javier Muñoz Marciales, I am a systems engineer, a web developer for 5 years and a bilingual (spanish/english) speaker;  
+I am a systems engineer, a web developer for 5 years and a bilingual (spanish/english) speaker;  
 I have worked in five different companies, and currently I am working in a full time job for the second largest construction company from Colombia, 
 called [Marval S.A.](https://marval.com.co/), and the other one for an ecommerce development company from Spain named [Unifema S.L](https://grupounifema.com/).  
 In my full time job I work in data integrations between different sources and in my part-time job I work as a web developer for creating/supporting different online stores. 
