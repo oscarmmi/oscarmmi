@@ -22,6 +22,8 @@ Finally I invite you to read my [resume](https://drive.google.com/file/d/1AYjREj
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=oscarmmi&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/oscarmmi/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmmi)](https://github.com/oscarmmi/github-readme-stats)
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
