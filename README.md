@@ -18,7 +18,6 @@ Finally I invite you to read my [resume](https://drive.google.com/file/d/1xZF3_a
 * Email: [oscarxxi@gmail.com](mailto:oscarxxi@gmail.com)
 * LinkedIn: [Oscar Javier Muñoz Marciales](https://www.linkedin.com/in/oscar-javier-mu%C3%B1oz/)
 * GitHub: [@oscarmmi](https://github.com/oscarmmi)
-* Twitter: [@oscarmmi](https://twitter.com/oscarmmi)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=oscarmmi&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/oscarmmi/github-readme-stats)
 
