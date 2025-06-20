@@ -1,34 +1,76 @@
-# Hi there, I'm Oscar Muñoz 👋
+# 👋 Hi, I'm Oscar Muñoz
 
 ![](https://komarev.com/ghpvc/?username=oscarmmi&color=brightgreen)
 
-I am a systems engineer, a web developer for 5 years and a bilingual (spanish/english) speaker;  
-I have worked in five different companies, and currently I am working in a full time job for the second largest construction company from Colombia, 
-called [Marval S.A.](https://marval.com.co/), and the other one for an ecommerce development company from Spain named [Unifema S.L](https://grupounifema.com/).  
-In my full time job I work in data integrations between different sources and in my part-time job I work as a web developer for creating/supporting different online stores. 
+I'm a **Senior Web Developer** and **Systems Engineer** with over **8 years of professional experience**, passionate about building scalable, user-focused web applications.  
+I’m bilingual (**Spanish & English**) and have worked with clients and companies in **Colombia, Spain, and the United States**.
 
-- 🌱 I’m currently learning Laravel, Vue and SQL Server
-- 💬 Ask me about Laravel | Vue | MySQL | SQL Server | Vanilla JS | CSS | Bootstrap
+Until recently, I worked at [Codistry](https://codistry.com/) as a Senior Web Developer, where I led the development of high-performance web applications using **PHP**, **MySQL**, **React**, and **WordPress**. I'm currently open to new opportunities where I can bring value through my technical expertise and problem-solving skills.
 
-My working experience consist mainly in the languages/technologies [PHP](https://www.php.net/) ([Laravel](https://laravel.com/)/[Symfony](https://symfony.com/)), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ([jQuery](https://jquery.com/), [Vanilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Vue js](https://vuejs.org/)), [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) ([Bootstrap](https://getbootstrap.com/), [BootstrapVue](https://bootstrap-vue.org/) and [Vuetify](https://vuetifyjs.com/en/)), and I try to improve everyday as much as I can as a professional web developer.  I have been part of many projects and have faced a lot of challenges related to them, and always I have successfully finished all those obstacles. 
+---
 
+## 💼 Recent Experience
 
-Finally I invite you to read my [resume](https://drive.google.com/file/d/1xZF3_ae84uR1xvxh8qcWgSNuif-NOebZ/view?usp=sharing), just in case you want to going deeper into the details of my working experience; I leave my contact information below, in case you want to contact me:
+### 🚀 Codistry (Dec 2023 – Jun 2025) — *Senior Web Developer*
+- Developed custom web apps using PHP (vanilla & WordPress), MySQL, and React.
+- Created WordPress themes and plugins for international clients.
+- Ensured fast performance and responsiveness across various devices and platforms.
 
-* Email: [oscarxxi@gmail.com](mailto:oscarxxi@gmail.com)
-* LinkedIn: [Oscar Javier Muñoz Marciales](https://www.linkedin.com/in/oscar-javier-mu%C3%B1oz/)
-* GitHub: [@oscarmmi](https://github.com/oscarmmi)
+### 🧩 DevBase (Nov 2022 – Nov 2023) — *Backend Engineer*
+- Built RESTful APIs with **Laravel**, handled migrations, optimized database queries.
+- Conducted unit and integration testing, and managed backend performance.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=oscarmmi&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/oscarmmi/github-readme-stats)
+### 🏗️ Marval S.A. (Dec 2021 – Nov 2022) — *Web Developer / Data Integration Specialist*
+- Designed data pipelines using SQL Server, Oracle, and JDE Edwards.
+- Created robust stored procedures and automated reporting solutions.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmmi)](https://github.com/oscarmmi/github-readme-stats)
+---
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technologies I Use & Love
 
+**Languages & Frameworks:**  
+`PHP`, `JavaScript`, `Laravel`, `Symfony`, `Vue.js`, `React`, `jQuery`, `HTML5`, `CSS3`, `SCSS`
+
+**Databases:**  
+`MySQL`, `PostgreSQL`, `SQL Server`, `MariaDB`, `Oracle`
+
+**Frontend:**  
+`Bootstrap`, `Vuetify`, `Tailwind CSS`, `BootstrapVue`
+
+**CMS & eCommerce:**  
+`WordPress`, `Shopify`, `WooCommerce`
+
+**Tools & Other Skills:**  
+`Git`, `REST APIs`, `Docker (basic)`, `Agile/Scrum`, `Data Integration`, `Debugging`, `Testing`
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Laravel ecosystem
+- Vue 3 Composition API
+- SQL performance optimization techniques
+
+---
+
+## 💬 Ask Me About
+
+`Laravel` | `Vue.js` | `PHP` | `MySQL` | `SQL Server` | `WordPress` | `React` | `JavaScript`
+
+---
+
+## 📄 Resume & Contact
+
+📄 [View My Resume (PDF)](https://drive.google.com/file/d/1xZF3_ae84uR1xvxh8qcWgSNuif-NOebZ/view?usp=sharing)  
+📧 [oscarxxi@gmail.com](mailto:oscarxxi@gmail.com)  
+🔗 [LinkedIn - Oscar Javier Muñoz Marciales](https://www.linkedin.com/in/oscar-javier-mu%C3%B1oz/)  
+🌐 [Portfolio - devcrafter.tech](https://devcrafter.tech/)  
+💻 [GitHub - @oscarmmi](https://github.com/oscarmmi)
+
+---
+
+## 📊 GitHub Stats
+
+[![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarmmi&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/oscarmmi/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmmi&layout=compact)](https://github.com/oscarmmi/github-readme-stats)
