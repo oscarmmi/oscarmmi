@@ -61,7 +61,7 @@ Until recently, I worked at [Codistry](https://codistry.com/) as a Senior Web De
 
 ## 📄 Resume & Contact
 
-📄 [View My Resume (PDF)]([https://drive.google.com/file/d/1xZF3_ae84uR1xvxh8qcWgSNuif-NOebZ/view?usp=sharing](https://drive.google.com/file/d/1ULLSn_q9WLcF2BVSGZp4N30MGq7l1fWO/view?usp=sharing))  
+📄 [View My Resume (PDF)](https://drive.google.com/file/d/1xZF3_ae84uR1xvxh8qcWgSNuif-NOebZ/view?usp=sharing)  
 📧 [oscarxxi@gmail.com](mailto:oscarxxi@gmail.com)  
 🔗 [LinkedIn - Oscar Javier Muñoz Marciales](https://www.linkedin.com/in/oscar-javier-mu%C3%B1oz/)  
 🌐 [Portfolio - artechsano.pro](https://artechsano.pro/)  
