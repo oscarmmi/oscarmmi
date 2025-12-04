@@ -77,6 +77,6 @@ Currently, I work as a **Freelance Senior Web Developer**, specializing in custo
 
 ## 📊 GitHub Stats
 
-[![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarmmi&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/oscarmmi/github-readme-stats)
+📊 [My GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarmmi&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/oscarmmi/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmmi&layout=compact)](https://github.com/oscarmmi/github-readme-stats)
+🏆 [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmmi&layout=compact)](https://github.com/oscarmmi/github-readme-stats)
