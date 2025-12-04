@@ -2,26 +2,32 @@
 
 ![](https://komarev.com/ghpvc/?username=oscarmmi&color=brightgreen)
 
-I'm a **Senior Web Developer** and **Systems Engineer** with over **8 years of professional experience**, passionate about building scalable, user-focused web applications.  
+I'm a **Senior Web Developer** and **Systems Engineer** with **more than 9 years of professional experience**, passionate about building scalable, user-focused web applications.  
 I’m bilingual (**Spanish & English**) and have worked with clients and companies in **Colombia, Spain, and the United States**.
 
-Until recently, I worked at [Codistry](https://codistry.com/) as a Senior Web Developer, where I led the development of high-performance web applications using **PHP**, **MySQL**, **React**, and **WordPress**. I'm currently open to new opportunities where I can bring value through my technical expertise and problem-solving skills.
+Currently, I work as a **Freelance Senior Web Developer**, specializing in customizing themes and plugins for international clients and optimizing web performance. Previously, I worked at [Codistry](https://codistry.com/) and have extensive experience leading development teams using **PHP**, **MySQL**, **React**, and **WordPress**.
 
 ---
 
 ## 💼 Recent Experience
 
+### 💻 Freelancer (Jun 2025 – Present) — *Senior Web Developer*
+- Customize WordPress themes and plugins for international clients.
+- Optimize web performance and functionality to ensure high-speed user experiences.
+- Utilize **PHP**, **MySQL**, and **JavaScript** to deliver tailored web solutions.
+
 ### 🚀 Codistry (Dec 2023 – Jun 2025) — *Senior Web Developer*
-- Developed custom web apps using PHP (vanilla & WordPress), MySQL, and React.
+- Developed custom web apps using **PHP** (vanilla & WordPress), **MySQL**, and **React**.
 - Created WordPress themes and plugins for international clients.
 - Ensured fast performance and responsiveness across various devices and platforms.
 
-### 🧩 DevBase (Nov 2022 – Nov 2023) — *Backend Engineer*
-- Built RESTful APIs with **Laravel**, handled migrations, optimized database queries.
-- Conducted unit and integration testing, and managed backend performance.
+### 🧩 DevBase (Dec 2022 – Nov 2023) — *Backend Engineer*
+- Built RESTful APIs with **Laravel**, handled migrations, and optimized database queries.
+- Conducted unit and integration testing (TDD), and managed backend performance.
+- Focused on maintainability and scalability of products.
 
-### 🏗️ Marval S.A. (Dec 2021 – Nov 2022) — *Web Developer / Data Integration Specialist*
-- Designed data pipelines using SQL Server, Oracle, and JDE Edwards.
+### 🏗️ Marval S.A. (Jan 2022 – Nov 2022) — *Web Developer*
+- Designed data pipelines using **SQL Server**, **Oracle DB**, and JDE Edwards.
 - Created robust stored procedures and automated reporting solutions.
 
 ---
@@ -29,7 +35,7 @@ Until recently, I worked at [Codistry](https://codistry.com/) as a Senior Web De
 ## 🧠 Technologies I Use & Love
 
 **Languages & Frameworks:**  
-`PHP`, `JavaScript`, `Laravel`, `Symfony`, `Vue.js`, `React`, `jQuery`, `HTML5`, `CSS3`, `SCSS`
+`PHP`, `JavaScript`, `Laravel`, `Symfony`, `Vue.js`, `React`, `jQuery`, `C#`, `.NET`, `HTML5`, `CSS3`
 
 **Databases:**  
 `MySQL`, `PostgreSQL`, `SQL Server`, `MariaDB`, `Oracle`
@@ -41,7 +47,7 @@ Until recently, I worked at [Codistry](https://codistry.com/) as a Senior Web De
 `WordPress`, `Shopify`, `WooCommerce`
 
 **Tools & Other Skills:**  
-`Git`, `REST APIs`, `Docker (basic)`, `Agile/Scrum`, `Data Integration`, `Debugging`, `Testing`
+`Git`, `REST APIs`, `Docker`, `Agile/Scrum`, `Data Integration`, `Debugging`, `Testing (TDD)`
 
 ---
 
@@ -61,7 +67,7 @@ Until recently, I worked at [Codistry](https://codistry.com/) as a Senior Web De
 
 ## 📄 Resume & Contact
 
-📄 [View My Resume (PDF)](https://drive.google.com/file/d/1xZF3_ae84uR1xvxh8qcWgSNuif-NOebZ/view?usp=sharing)  
+📄 [View My Resume (PDF)](https://drive.google.com/file/d/1arCgiXltPnPUBF9b5qRTDd5nKAn8gwhI/view?usp=sharing)  
 📧 [oscarxxi@gmail.com](mailto:oscarxxi@gmail.com)  
 🔗 [LinkedIn - Oscar Javier Muñoz Marciales](https://www.linkedin.com/in/oscar-javier-mu%C3%B1oz/)  
 🌐 [Portfolio - artechsano.pro](https://artechsano.pro/)  
