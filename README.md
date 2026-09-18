@@ -2,19 +2,32 @@
 
 ![](https://komarev.com/ghpvc/?username=oscarmmi&color=brightgreen)
 
-I'm a **Senior Web Developer** and **Systems Engineer** with **more than 9 years of professional experience**, passionate about building scalable, user-focused web applications.  
-I’m bilingual (**Spanish & English**) and have worked with clients and companies in **Colombia, Spain, and the United States**.
+Senior Fullstack Developer with **9+ years** shipping products end to end. I work hands-on with modern AI tools — **Claude, Antigravity, Grok** — to build assistants and AI-powered features inside real products, not demos.
 
-Currently, I work as a **Freelance Senior Web Developer**, specializing in customizing themes and plugins for international clients and optimizing web performance. Previously, I worked at [Codistry](https://codistry.com/) and have extensive experience leading development teams using **PHP**, **MySQL**, **React**, and **WordPress**.
+I build and own the full stack: **PHP/Laravel** backends, **Vue.js/React** frontends, and **WordPress at scale**. I also design what keeps products reliable in production — APIs, Stripe billing and subscriptions, data models, and performance work that holds up under real use.
+
+I'm bilingual (**Spanish & English**) and have worked with clients and companies in **Colombia, Spain, and the United States**. Based in Bucaramanga, Colombia. Open to remote roles, consulting, and partnerships.
 
 ---
 
-## 💼 Recent Experience
+## 💼 What I bring
 
-### 💻 Freelancer (Jun 2025 – Present) — *Senior Web Developer*
-- Customize WordPress themes and plugins for international clients.
-- Optimize web performance and functionality to ensure high-speed user experiences.
-- Utilize **PHP**, **MySQL**, and **JavaScript** to deliver tailored web solutions.
+- **Applied AI** — integrating Claude, Antigravity, Grok and other LLM tooling into existing apps and workflows
+- **Solid backend craft** — secure APIs, payments, and architecture you can maintain
+- **Modernization** — legacy → PHP 8.x, cleaner systems, deploy pipelines that keep shipping
+- **Frontends that feel fast** — dashboards, search, and UX for complex tools
+
+Worked across healthcare, SaaS, and product teams where clear communication and ownership matter as much as the code.
+
+---
+
+## 🚀 Recent Experience
+
+### visbl — *Senior Web Developer* (Aug 2025 – Sep 2026)
+Drove technical evolution and modernization of visbl's core platform:
+- Led end-to-end upgrade of legacy systems to **PHP 8.x** standards
+- Overhauled subscription/payment engine with the latest **Stripe SDK**
+- Helped improve the lender search and onboarding system
 
 ### 🚀 Codistry (Dec 2023 – Jun 2025) — *Senior Web Developer*
 - Developed custom web apps using **PHP** (vanilla & WordPress), **MySQL**, and **React**.
@@ -35,7 +48,7 @@ Currently, I work as a **Freelance Senior Web Developer**, specializing in custo
 ## 🧠 Technologies I Use & Love
 
 **Languages & Frameworks:**  
-`PHP`, `JavaScript`, `Laravel`, `Symfony`, `Vue.js`, `React`, `jQuery`, `C#`, `.NET`, `HTML5`, `CSS3`
+`PHP`, `Laravel`, `FastAPI`, `JavaScript`, `Vue.js`, `React`, `Alpine.js`, `jQuery`, `Symfony`
 
 **Databases:**  
 `MySQL`, `PostgreSQL`, `SQL Server`, `MariaDB`, `Oracle`
@@ -44,24 +57,13 @@ Currently, I work as a **Freelance Senior Web Developer**, specializing in custo
 `Bootstrap`, `Vuetify`, `Tailwind CSS`, `BootstrapVue`
 
 **CMS & eCommerce:**  
-`WordPress`, `Shopify`, `WooCommerce`
+`WordPress` (security auditing, REST API), `Shopify`, `WooCommerce`, `Stripe billing/subscriptions`
 
 **Tools & Other Skills:**  
-`Git`, `REST APIs`, `Docker`, `Agile/Scrum`, `Data Integration`, `Debugging`, `Testing (TDD)`
+`Git`, `REST APIs`, `Docker`, `GCP`, `AWS`, `Filament v3`, `Agile/Scrum`, `Data Integration`, `Debugging`, `Testing (TDD)`
 
----
-
-## 🌱 Currently Learning
-
-- Advanced Laravel ecosystem
-- Vue 3 Composition API
-- SQL performance optimization techniques
-
----
-
-## 💬 Ask Me About
-
-`Laravel` | `Vue.js` | `PHP` | `MySQL` | `SQL Server` | `WordPress` | `React` | `JavaScript`
+**AI-assisted development:**  
+`Claude`, `Codex`, `Antigravity`, `Grok`
 
 ---
 
@@ -70,7 +72,7 @@ Currently, I work as a **Freelance Senior Web Developer**, specializing in custo
 📄 [View My Resume (PDF)](https://drive.google.com/file/d/1arCgiXltPnPUBF9b5qRTDd5nKAn8gwhI/view?usp=sharing)  
 📧 [oscarxxi@gmail.com](mailto:oscarxxi@gmail.com)  
 🔗 [LinkedIn - Oscar Javier Muñoz Marciales](https://www.linkedin.com/in/oscar-javier-mu%C3%B1oz/)  
-🌐 [Portfolio - artechsano.pro](https://artechsano.pro/)  
+🌐 [Portfolio - artechsano.com](https://artechsano.com/)  
 💻 [GitHub - @oscarmmi](https://github.com/oscarmmi)
 
 ---
